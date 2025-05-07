@@ -1,0 +1,149 @@
+{
+	"pattrstorage" : 	{
+		"name" : "cues",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"ma.circular-buffer::filterResonance" : [ 10.0 ],
+					"ma.circular-buffer::maxGrainLength" : [ 1000 ],
+					"ma.circular-buffer::maxPlayback" : [ 0.0 ],
+					"ma.circular-buffer::minGrainLength" : [ 200 ],
+					"ma.circular-buffer::minPlayback" : [ 1.0 ],
+					"ma.circular-buffer::startStop" : [ 0 ],
+					"ma.granular::1565_grainLength" : [ 76 ],
+					"ma.granular::button" : [ 1.0 ],
+					"ma.granular::button[1]" : [ 1.0 ],
+					"ma.granular::button[2]" : [ 1.0 ],
+					"ma.granular::button[3]" : [ 0.0 ],
+					"ma.granular::dial" : [ 57 ],
+					"ma.granular::grainStart" : [ 0 ],
+					"ma.granular::gswitch" : [ 1 ],
+					"ma.granular::number" : [ 2311.541950113378789 ],
+					"ma.granular::number[1]" : [ 598.425196850393718 ],
+					"ma.granular::number[2]" : [ 451.0 ],
+					"ma.granular::toggle" : [ 1 ],
+					"live.gain~" : [ 0.0 ],
+					"mixer" : [ 0, 0, 0 ],
+					"number[1]" : [ 110 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"ma.circular-buffer::filterResonance" : [ 10.0 ],
+					"ma.circular-buffer::maxGrainLength" : [ 1000 ],
+					"ma.circular-buffer::maxPlayback" : [ 0.0 ],
+					"ma.circular-buffer::minGrainLength" : [ 200 ],
+					"ma.circular-buffer::minPlayback" : [ 1.0 ],
+					"ma.circular-buffer::startStop" : [ 1 ],
+					"ma.granular::1565_grainLength" : [ 76 ],
+					"ma.granular::button" : [ 1.0 ],
+					"ma.granular::button[1]" : [ 1.0 ],
+					"ma.granular::button[2]" : [ 1.0 ],
+					"ma.granular::button[3]" : [ 0.0 ],
+					"ma.granular::dial" : [ 57 ],
+					"ma.granular::grainStart" : [ 1 ],
+					"ma.granular::gswitch" : [ 1 ],
+					"ma.granular::number" : [ 2311.541950113378789 ],
+					"ma.granular::number[1]" : [ 598.425196850393718 ],
+					"ma.granular::number[2]" : [ 451.0 ],
+					"ma.granular::toggle" : [ 1 ],
+					"live.gain~" : [ 0.0 ],
+					"mixer" : [ 0, 0, 1.0, 0, 1, 1.0 ],
+					"number[1]" : [ 110 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"ma.circular-buffer::filterResonance" : [ 10.0 ],
+					"ma.circular-buffer::maxGrainLength" : [ 1188 ],
+					"ma.circular-buffer::maxPlayback" : [ 0.0 ],
+					"ma.circular-buffer::minGrainLength" : [ 316 ],
+					"ma.circular-buffer::minPlayback" : [ 6.11 ],
+					"ma.circular-buffer::startStop" : [ 0 ],
+					"ma.granular::1565_grainLength" : [ 76 ],
+					"ma.granular::button" : [ 1.0 ],
+					"ma.granular::button[1]" : [ 1.0 ],
+					"ma.granular::button[2]" : [ 1.0 ],
+					"ma.granular::button[3]" : [ 0.0 ],
+					"ma.granular::dial" : [ 57 ],
+					"ma.granular::grainStart" : [ 1 ],
+					"ma.granular::gswitch" : [ 1 ],
+					"ma.granular::number" : [ 2311.541950113378789 ],
+					"ma.granular::number[1]" : [ 598.425196850393718 ],
+					"ma.granular::number[2]" : [ 451.0 ],
+					"ma.granular::toggle" : [ 1 ],
+					"live.gain~" : [ 0.0 ],
+					"mixer" : [ 0, 0, 1.0, 0, 1, 1.0, 1, 0, 1.0, 1, 1, 1.0 ],
+					"number[1]" : [ 110 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"ma.circular-buffer::filterResonance" : [ 10.0 ],
+					"ma.circular-buffer::maxGrainLength" : [ 1188 ],
+					"ma.circular-buffer::maxPlayback" : [ 0.0 ],
+					"ma.circular-buffer::minGrainLength" : [ 316 ],
+					"ma.circular-buffer::minPlayback" : [ 6.11 ],
+					"ma.circular-buffer::startStop" : [ 0 ],
+					"ma.granular::1565_grainLength" : [ 76 ],
+					"ma.granular::button" : [ 1.0 ],
+					"ma.granular::button[1]" : [ 1.0 ],
+					"ma.granular::button[2]" : [ 1.0 ],
+					"ma.granular::button[3]" : [ 0.0 ],
+					"ma.granular::dial" : [ 57 ],
+					"ma.granular::grainStart" : [ 0 ],
+					"ma.granular::gswitch" : [ 0 ],
+					"ma.granular::number" : [ 2311.541950113378789 ],
+					"ma.granular::number[1]" : [ 598.425196850393718 ],
+					"ma.granular::number[2]" : [ 451.0 ],
+					"ma.granular::toggle" : [ 0 ],
+					"live.gain~" : [ 0.0 ],
+					"mixer" : [ 0, 0, 1.0, 0, 1, 1.0, 1, 0, 1.0, 1, 1, 1.0 ],
+					"number[1]" : [ 110 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"ma.circular-buffer::filterResonance" : [ 10.0 ],
+					"ma.circular-buffer::maxGrainLength" : [ 1188 ],
+					"ma.circular-buffer::maxPlayback" : [ 0.0 ],
+					"ma.circular-buffer::minGrainLength" : [ 316 ],
+					"ma.circular-buffer::minPlayback" : [ 6.11 ],
+					"ma.circular-buffer::startStop" : [ 0 ],
+					"ma.granular::1565_grainLength" : [ 76 ],
+					"ma.granular::button" : [ 1.0 ],
+					"ma.granular::button[1]" : [ 1.0 ],
+					"ma.granular::button[2]" : [ 1.0 ],
+					"ma.granular::button[3]" : [ 0.0 ],
+					"ma.granular::dial" : [ 57 ],
+					"ma.granular::grainStart" : [ 0 ],
+					"ma.granular::gswitch" : [ 0 ],
+					"ma.granular::number" : [ 2311.541950113378789 ],
+					"ma.granular::number[1]" : [ 598.425196850393718 ],
+					"ma.granular::number[2]" : [ 451.0 ],
+					"ma.granular::toggle" : [ 0 ],
+					"live.gain~" : [ 0.0 ],
+					"mixer" : [ 0, 0, 0 ],
+					"number[1]" : [ 110 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

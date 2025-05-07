@@ -1,0 +1,8 @@
+1, kick;
+2, open-hihat;
+3, closed-hihat;
+4, conga;
+5, clap;
+6, clave;
+7, ride;
+8, cowbell;

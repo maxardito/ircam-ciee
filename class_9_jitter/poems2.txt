@@ -1,0 +1,10 @@
+1, "Giving smiles to the world";
+2, "Challenges that spark delight";
+3, "Healing earth with every seed";
+4, "Creating joy, spreading cheer";
+5, "Giving back with open heart";
+6, "Treasure hunts and quests fulfilled";
+7, "Acts of kindness changing lives";
+8, "Breaking records, daring deeds";
+9, "Changing lives with simple acts";
+10, "Dreams and goals achieved with flair";

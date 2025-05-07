@@ -1,0 +1,10 @@
+1, "Generous spirit";
+2, "YouTube's bright beacon";
+3, "Planting countless trees";
+4, "Friends and laughter shared";
+5, "Billions watch amazed";
+6, "Mystery and thrill";
+7, "Philanthropy king";
+8, "Feats beyond compare";
+9, "Generous giveaways";
+10, "Challenges embraced";
