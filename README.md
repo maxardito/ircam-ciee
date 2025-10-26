@@ -1,6 +1,6 @@
 # IRCAM Max/MSP Patches
 
-A collection of Max/MSP patchers organized by topics, ranging from MIDI sequencing and modular synthesis to granular synthesis and real-time DSP techniques.
+A collection of Max/MSP patches organized by topics, ranging from MIDI sequencing and modular synthesis to granular synthesis and real-time DSP techniques.
 
 > This repository is designed for use in an educational context, providing practical examples and creative tools for sound design, synthesis, and algorithmic composition in Max. Be sure to contextualize this stuff historically alongside supplementary reading and listening. These concepts didn't just fall from the sky! ☔
 
