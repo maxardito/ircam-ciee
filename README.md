@@ -6,11 +6,11 @@ A collection of Max/MSP patches organized by topics, ranging from MIDI sequencin
 
 ## 📁 Folder Structure
 Each `class_X_*` folder contains Max patchers and supporting files related to a specific topic:
-- `class_1_MIDI` – General MIDI, propability, composition with Markov chains 
+- `class_1_MIDI` – General MIDI, probability, composition with Markov chains 
 - `class_2_modular-synth` – FM, AM, modular synthesis, Scala tunings 
 - `class_3_mc` – Multichannel (MC) synthesis intro, MC macro messages, voice allocation
 - `class_4_buffers` – Working with buffers, wavetables, sample manipulation, and sequencers
-- `class_5_granular-synth_filters` – Granular synthesis, FIR/IIR filters, delays 
+- `class_5_granular_synth_filters` – Granular synthesis, FIR/IIR filters, delays 
 - `class_6_realtime-DSP` – Basic audio effects, circular buffers, matrix routing, onset detection
 - `class_7_spat_fft` – Analysis/resynthesis, phase vocoder, spectral freeze, spatialization 
 - `class_8_noise` – Feedback, waveshaping, harsh noise, degradation
